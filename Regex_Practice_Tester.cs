@@ -13,6 +13,9 @@ class Program
             {
                 break;
             }
+
+            Console.WriteLine("Enter some input to test against the pattern:");
+            string input = Console.ReadLine();
         }
     }
 }
